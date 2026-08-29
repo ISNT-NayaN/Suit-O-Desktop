@@ -38,6 +38,13 @@ Click START SUIT-O.
 Keep the .exe, assets, audio and config.json in the same folder.
 
 
+Windows Security
+
+Since this is a new, unsigned application, Windows may show a security warning when opening it for the first time. This does not necessarily mean the application is malicious.
+
+Only download Suit-O Desktop from this GitHub repository.
+
+
 Credits
 
 Suit-O and High on Life belong to Squanch Games.
