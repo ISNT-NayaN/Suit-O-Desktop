@@ -29,11 +29,15 @@ Download the latest .zip from Releases.
 
 Extract it.
 
-Open Menu.exe
+Open dist
+
+Launch Suit-O.exe
 
 Set your preferences.
 
-Open Suit-O.exe
+Click SAVE CONFIGURATION.
+
+Click START SUIT-O.
 
 Done
 
