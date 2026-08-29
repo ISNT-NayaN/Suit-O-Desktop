@@ -29,7 +29,7 @@ Download the latest .zip from Releases.
 
 Extract it.
 
-Open Configuracion.exe.
+Open Menu.exe
 
 Set your preferences.
 
