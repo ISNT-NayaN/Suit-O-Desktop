@@ -33,7 +33,10 @@ Open Configuracion.exe.
 
 Set your preferences.
 
-Click START SUIT-O.
+Open Suit-O.exe
+
+Done
+
 
 Keep the .exe, assets, audio and config.json in the same folder.
 
